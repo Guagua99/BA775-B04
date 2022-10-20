@@ -1,2 +1,2 @@
 # BA775-B04
-BA775 Team B04 Project 
+Team B04 Fanfei Zhao, Sixuan Wang, Shu Wang, Yuesen Zhang, Jiadai Yu
